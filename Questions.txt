@@ -1,1 +1,19 @@
 1.what is webservice?
+
+
+
+2.What is lazyloading?             
+        Lazy loading is a technique used in computer programming and web development to defer the loading of
+certain resources until they are actually needed. The idea is to postpone the loading of non-essential
+or secondary content, such as images, scripts, or other media, until the user interacts with the webpage
+in a way that requires those resources.
+
+The primary goal of lazy loading is to improve the initial page load time and overall performance of
+a website. When a webpage loads, it can be resource-intensive if it has to fetch and render all the 
+content at once. Lazy loading allows developers to prioritize the loading of essential content and then 
+load additional elements as the user scrolls down the page or takes specific actions.
+
+In the context of web development, lazy loading is commonly used for images. 
+Instead of loading all the images on a page when it initially loads, images 
+below the fold (i.e., not visible in the initial view) are loaded only when 
+the user scrolls down to see them.
