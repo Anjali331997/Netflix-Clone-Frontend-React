@@ -10,6 +10,7 @@
     padding-top: 140px;
     height: 190px;
     padding-left: 15px;
+    /* border: 15px solid white; */
 }
 
 .title {
@@ -47,7 +48,7 @@
     max-width: 360px;
 }
 
-.fade_botton {
+.fade_bottom {
     height: 448px;
     background-image: linear-gradient(180deg, transparent, rgba(37, 37, 37, .61), #111);
 }
