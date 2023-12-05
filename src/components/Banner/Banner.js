@@ -15,8 +15,6 @@ function Banner() {
                 </div>
                 
                 <div className="fade_botton">
-                    
-
                 </div>
             </div>
         </div>
