@@ -17,3 +17,10 @@ In the context of web development, lazy loading is commonly used for images.
 Instead of loading all the images on a page when it initially loads, images 
 below the fold (i.e., not visible in the initial view) are loaded only when 
 the user scrolls down to see them.
+
+
+3.What is REST API? What are different methods? Explain with example?
+
+
+4.What is JSON data?
+
